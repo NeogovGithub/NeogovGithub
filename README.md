@@ -24,10 +24,6 @@ Acompanhe-nos nas redes sociais para ficar por dentro das últimas novidades e a
 - [Instagram](https://www.instagram.com/neogovofic/)
 - [LinkedIn](https://www.linkedin.com/company/neogovbr/)
 
-## 📄 Licença
-
-Este projeto é licenciado sob os termos da [Licença da NeoGov](#) (ainda a ser especificada). Consulte o arquivo LICENSE.md para obter detalhes.
-
 ---
 
 ⚖️ **LGPD - Privacidade e Transparência para o Futuro**
